@@ -1,16 +1,6 @@
-# testapp
+# authApp
+### The app is based on a video course
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Home| Login | SignUp | Reset |
+|----------|----------|----------|----------|
+| ![image](https://github.com/user-attachments/assets/70cbcce9-6734-4d3b-9482-5c2010a6bd8a) | ![image](https://github.com/user-attachments/assets/74f0474f-41b8-4c64-8676-2085a2a4789e) | ![image](https://github.com/user-attachments/assets/9e809114-7982-4ccc-94c3-600d6ff1853f) | ![image](https://github.com/user-attachments/assets/b2861198-8617-46f5-bf75-6a162ced0d86) |
