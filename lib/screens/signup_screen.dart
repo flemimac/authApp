@@ -82,6 +82,8 @@ class _SignUpScreen extends State<SignUpScreen> {
     return Scaffold(
       resizeToAvoidBottomInset: false,
       appBar: AppBar(
+        centerTitle: true,
+        backgroundColor: Colors.blue,
         title: const Text('Зарегистрироваться'),
       ),
       body: Padding(

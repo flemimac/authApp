@@ -67,7 +67,11 @@ class _ResetPasswordScreenState extends State<ResetPasswordScreen> {
     return Scaffold(
       resizeToAvoidBottomInset: false,
       appBar: AppBar(
-        title: const Text('Сброс пароля'),
+        centerTitle: true,
+        backgroundColor: Colors.blue,
+        title: const Text(
+          'Сброс пароля',
+        ),
       ),
       body: Padding(
         padding: const EdgeInsets.all(30.0),

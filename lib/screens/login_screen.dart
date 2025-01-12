@@ -70,6 +70,8 @@ class _LoginScreenState extends State<LoginScreen> {
     return Scaffold(
       resizeToAvoidBottomInset: false,
       appBar: AppBar(
+        centerTitle: true,
+        backgroundColor: Colors.blue,
         title: const Text('Войти'),
       ),
       body: Padding(

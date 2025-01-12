@@ -79,7 +79,11 @@ class _VerifyEmailScreenState extends State<VerifyEmailScreen> {
       : Scaffold(
           resizeToAvoidBottomInset: false,
           appBar: AppBar(
-            title: const Text('Верификация Email адреса'),
+            centerTitle: true,
+            backgroundColor: Colors.blue,
+            title: const Text(
+              'Верификация Email адреса',
+            ),
           ),
           body: SafeArea(
             child: Padding(

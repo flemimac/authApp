@@ -12,6 +12,8 @@ class HomeScreen extends StatelessWidget {
     final user = FirebaseAuth.instance.currentUser;
     return Scaffold(
       appBar: AppBar(
+        centerTitle: true,
+        backgroundColor: Colors.blue,
         title: const Text('Главная страница'),
         actions: [
           IconButton(
